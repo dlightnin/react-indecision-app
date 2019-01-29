@@ -1,4 +1,5 @@
 # react-indecision-app
+install dependencies: yarn install
 
 run command in indecision-app directory: yarn run dev-server
 
